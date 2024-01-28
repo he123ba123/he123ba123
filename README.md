@@ -10,4 +10,4 @@
 he123ba123/he123ba123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# this is my fisst project in github
+# this is my first project in github
