@@ -1,9 +1,6 @@
 ### Hi👋, I'm Heba Tarek
-#### Take a deep breathe and try all over again
+###Take a deep breathe and try all over again
 
-
-
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://camo.githubusercontent.com/9e8f043df04d15c236485453c1e0106f61a28f03a4a8cb152c4626d44f250cac/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966)">
 
 ## About me
 
