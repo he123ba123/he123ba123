@@ -14,5 +14,5 @@ ________________________________________________________________________________
 ## Get in touch :coffee:
 
 - [Personal Email](hebatarekg@gmail.com)
-- [GitHub](https://github.com/he123ba123)r)
+- [GitHub](https://github.com/he123ba123)
 - [LinkedIn](www.linkedin.com/in/heba-tarek-cce)
