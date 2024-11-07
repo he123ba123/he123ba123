@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Heba Tarek</h1>
+<h1 align="center">Hi , I'm Heba Tarek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 <h3 align="center">"Take a deep breathe and try all over again"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=he123ba123&label=Profile%20views&color=0e75b6&style=flat" alt="he123ba123" /> </p>
 
