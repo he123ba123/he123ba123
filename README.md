@@ -4,16 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=he123ba123&label=Profile%20views&color=0e75b6&style=flat" alt="he123ba123" /> </p>
 
 
-###
-
-
-  ###
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-
-
-  ###
-  
 
 ## 🌠About me
 Hi there, I’m Heba Tarek, Interested in programming and computers field.a skilled and results-driven APP Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries. So I improve my skills and gain knowledge in it and develop myself faster.
