@@ -23,11 +23,17 @@
 Hi there, I’m Heba Tarek, Interested in programming and computers field.a skilled and results-driven APP Developer with a background in Flutter📱 and a passion for crafting high-quality apps and libraries. So I improve my skills and gain knowledge in it and develop myself faster.
 
 - 👨‍💻 I’m currently a CCE student 
-- 🌱 I’m currently learning Flutte
+- 🌱 I’m currently learning Flutter
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/heba-tarek-cce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/heba-tarek-cce" height="30" width="40" /></a>
+
+<p align="center">
+
+<a href="http://www.linkedin.com/in/heba-tarek-cce"><img src="https://img.shields.io/badge/ -@Heba Tarek-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="hebatarekg@gmail.com"><img src="https://img.shields.io/badge/-@Heba Tarek-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hebatarek846/"><img src="https://img.shields.io/badge/-@Heba Tarek_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100085921645606)"><img src="https://img.shields.io/badge/-@Heba Tarek-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
